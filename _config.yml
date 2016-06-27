@@ -1,0 +1,14 @@
+color:
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+  brandStrength: 0.6810090081022212
+  lightness: 0.5785158358231011
+  rhythmicContrast: 0.7506216359564983
+  saturation: 0.8657748850845227
+layout_spectrum: 0.7762253808775585
+name: Android
+typography_spectrum: 0.657487263687458
