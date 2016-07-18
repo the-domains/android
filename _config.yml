@@ -5,12 +5,12 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
-  brandStrength: 0.32367929071187973
-  lightness: 0.9806420688983053
-  rhythmicContrast: 0.9930241636466235
-  saturation: 0.9668801540974528
-layout_spectrum: 0.27425254974514246
+  brandStrength: 0.8192900589201599
+  lightness: 0.711493693292141
+  rhythmicContrast: 0.5491704824380577
+  saturation: 0.3327008376363665
+layout_spectrum: 0.667028184980154
 name: Android
-typography_spectrum: 0.8024129921104759
+typography_spectrum: 0.6724725691601634
 coverPrefs:
   filter: false
