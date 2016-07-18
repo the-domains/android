@@ -9,6 +9,8 @@ color:
   lightness: 0.2950357017107308
   rhythmicContrast: 0.5136352274566889
   saturation: 0.40230990294367075
-layout_spectrum: 0.3056930562015623
+layout_spectrum: 0.7443100481759757
 name: Android
-typography_spectrum: 0.548481757286936
+typography_spectrum: 0.97640824271366
+coverPrefs:
+  filter: false
