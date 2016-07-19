@@ -1,16 +1,16 @@
 color:
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-  brandStrength: 0.5964052025228739
-  lightness: 0.22116389800794423
-  rhythmicContrast: 0.11708081047981977
-  saturation: 0.6949009245727211
-layout_spectrum: 0.21120129572227597
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
+  brandStrength: 0.6958279928658158
+  lightness: 0.832026107236743
+  rhythmicContrast: 0.7959500951692462
+  saturation: 0.439751481404528
+layout_spectrum: 0.34409413463436067
 name: Android
-typography_spectrum: 0.13992150244303048
+typography_spectrum: 0.9771365351043642
 coverPrefs:
   filter: false
