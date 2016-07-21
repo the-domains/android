@@ -1,16 +1,18 @@
 ---
 author: []
-dateModified: '2016-07-13T07:02:04.224Z'
+dateModified: '2016-07-21T13:05:43.144Z'
 description: >-
   Hello, I'm writing an awesome post. This is really cool. Who would've thought
   this would be so great?
 inFeed: true
-isBasedOnUrl: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/00984e01-8f34-4718-b6ad-351f09c8308e.jpg
 title: ''
-datePublished: '2016-07-18T14:05:33.959Z'
-starred: false
+datePublished: '2016-07-21T13:05:44.174Z'
 sourcePath: _posts/2016-07-18-hello-im-writing-an-awesome-post-this-is-really-cool-who.md
+hasPage: true
+publisher: {}
+via: {}
+starred: false
+url: hello-im-writing-an-awesome-post-this-is-really-cool-who/index.html
 _context: 'http://schema.org'
 _type: Article
 
