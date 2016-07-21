@@ -17,5 +17,9 @@ navigation:
     url: 'https://play.google.com/store/apps/details?id=io.thegrid.app'
     name: Play Store
     type: external
+  - id: ca74c8cc-cbba-4b1b-b21e-229bac52728d
+    url: 2016-07-18-hello-im-writing-an-awesome-post-this-is-really-cool-who.html
+    name: A post
+    type: content
 coverPrefs:
   filter: false
