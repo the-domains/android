@@ -1,7 +1,6 @@
-author:
-  email: ''
-  name: ''
-  url: ''
+typography_spectrum: 0.9771365351043642
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#B9121B'
@@ -13,12 +12,18 @@ color:
   lightness: 0.832026107236743
   rhythmicContrast: 0.7959500951692462
   saturation: 0.439751481404528
-content_rating:
-  adult: false
-layout_spectrum: 0.34409413463436067
-name: Android
 opengraph:
   appId: ''
   type: ''
+layout_spectrum: 0.34409413463436067
+author:
+  email: ''
+  name: ''
+  url: ''
+name: Android
+navigation:
+  - id: ca74c8cc-cbba-4b1b-b21e-229bac52728d
+    url: 2016-07-18-hello-im-writing-an-awesome-post-this-is-really-cool-who.html
+    name: asd
+    type: content
 title: cool
-typography_spectrum: 0.9771365351043642
