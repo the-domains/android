@@ -1,3 +1,4 @@
+typography_spectrum: 0.9771365351043642
 color:
   brandColors:
     - '#B9121B'
@@ -11,6 +12,10 @@ color:
   saturation: 0.439751481404528
 layout_spectrum: 0.34409413463436067
 name: Android
-typography_spectrum: 0.9771365351043642
+navigation:
+  - id: 'https://play.google.com/store/apps/details?id=io.thegrid.app'
+    url: 'https://play.google.com/store/apps/details?id=io.thegrid.app'
+    name: Play Store
+    type: external
 coverPrefs:
   filter: false
