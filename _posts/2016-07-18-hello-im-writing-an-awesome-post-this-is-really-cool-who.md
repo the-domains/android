@@ -1,12 +1,12 @@
 ---
 author: []
-dateModified: '2016-07-21T13:05:43.144Z'
+dateModified: '2016-07-21T14:22:12.575Z'
 description: >-
   Hello, I'm writing an awesome post. This is really cool. Who would've thought
   this would be so great?
 inFeed: true
 title: ''
-datePublished: '2016-07-21T13:05:44.174Z'
+datePublished: '2016-07-21T14:22:13.089Z'
 sourcePath: _posts/2016-07-18-hello-im-writing-an-awesome-post-this-is-really-cool-who.md
 hasPage: true
 publisher: {}
