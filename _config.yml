@@ -22,10 +22,10 @@ author:
   url: ''
 name: Android
 navigation:
-  - name: dfgdfg
-    url: dfgdfg
-    type: external
   - name: asd
     id: ca74c8cc-cbba-4b1b-b21e-229bac52728d
     type: content
+  - name: dfgdfg
+    url: dfgdfg
+    type: external
 title: cool!
