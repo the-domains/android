@@ -1,16 +1,16 @@
 ---
+datePublished: '2016-08-16T08:09:10.261Z'
+sourcePath: _posts/2016-07-18-hello-im-writing-an-awesome-post-this-is-really-cool-who.md
+inFeed: true
+hasPage: true
 author: []
-dateModified: '2016-07-21T14:22:12.575Z'
+via: {}
+dateModified: '2016-08-16T08:09:09.734Z'
+title: ''
+publisher: {}
 description: >-
   Hello, I'm writing an awesome post. This is really cool. Who would've thought
   this would be so great?
-inFeed: true
-title: ''
-datePublished: '2016-07-21T14:22:13.089Z'
-sourcePath: _posts/2016-07-18-hello-im-writing-an-awesome-post-this-is-really-cool-who.md
-hasPage: true
-publisher: {}
-via: {}
 starred: false
 url: hello-im-writing-an-awesome-post-this-is-really-cool-who/index.html
 _context: 'http://schema.org'
