@@ -12,6 +12,7 @@ color:
   lightness: 0.832026107236743
   rhythmicContrast: 0.7959500951692462
   saturation: 0.439751481404528
+github: true
 opengraph:
   appId: ''
   type: ''
@@ -29,3 +30,11 @@ navigation:
     url: dfgdfg
     type: external
 title: cool!
+content: []
+purpose:
+  - type: contact
+    url: 'tel:+20123123'
+    label: Call +20123123
+  - type: external
+    url: '+234234'
+    label: '+234234'
