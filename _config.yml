@@ -22,17 +22,7 @@ author:
   url: ''
   email: ''
 name: Android
-navigation:
-  - name: asdxxxxx
-    id: ca74c8cc-cbba-4b1b-b21e-229bac52728d
-    type: content
-  - name: dfgdfg
-    url: dfgdfg
-    type: external
 title: cool!
 content: []
 description: ''
-purpose:
-  - type: external
-    url: '+234234'
-    label: '+234234'
+purpose: []
