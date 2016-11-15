@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-16T08:09:10.261Z'
+datePublished: '2016-11-15T15:07:57.716Z'
 sourcePath: _posts/2016-07-18-hello-im-writing-an-awesome-post-this-is-really-cool-who.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-16T08:09:09.734Z'
+dateModified: '2016-11-15T15:07:57.144Z'
 title: ''
 publisher: {}
 description: >-
