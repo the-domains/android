@@ -29,3 +29,6 @@ purpose:
   - type: external
     url: 'http://sdflkj.com'
     label: 'http://sdflkj.comsdf'
+  - type: internal
+    label: sdf
+    item: ca74c8cc-cbba-4b1b-b21e-229bac52728d
