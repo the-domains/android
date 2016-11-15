@@ -29,6 +29,3 @@ purpose:
   - type: external
     url: 'http://sdflkj.com'
     label: 'http://sdflkj.comsdf'
-  - type: contact
-    url: 'mailto:x@sjshdf.com'
-    label: Contact me
