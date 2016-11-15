@@ -29,3 +29,6 @@ purpose:
   - type: external
     url: 'http://sdflkj.com'
     label: 'http://sdflkj.comsdf'
+  - type: contact
+    url: 'tel:sdf'
+    label: Call sdf
