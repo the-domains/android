@@ -29,3 +29,6 @@ purpose:
   - type: contact
     url: 'tel:+491511231123'
     label: Call +491511231123
+  - type: external
+    url: 'http://coolbeans.com'
+    label: 'http://coolbeans.com'
