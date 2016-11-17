@@ -25,7 +25,4 @@ name: Android
 title: cool!
 content: []
 description: asd
-purpose:
-  - type: contact
-    url: 'tel:+491511231123'
-    label: Call +491511231123
+purpose: []
