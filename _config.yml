@@ -25,7 +25,4 @@ name: Android
 title: cool!
 content: []
 description: asd
-purpose:
-  - type: contact
-    label: vg
-    url: 'tel:99'
+purpose: []
