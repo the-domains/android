@@ -19,6 +19,9 @@ purpose:
   - type: contact
     label: hh
     url: 'tel:9'
+  - type: external
+    label: bice
+    url: 'http://habnesstruss.de'
 title: cool!
 description: asd
 author:
