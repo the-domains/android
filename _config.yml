@@ -25,7 +25,4 @@ name: Android
 title: cool!
 content: []
 description: asd
-purpose:
-  - type: external
-    label: bice
-    url: 'http://habnesstruss.de'
+purpose: []
