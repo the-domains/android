@@ -19,6 +19,9 @@ purpose:
   - type: contact
     label: vhg
     url: 'tel:555'
+  - type: external
+    label: cool
+    url: 'http://cool.com'
 title: cool!
 description: asd
 author:
