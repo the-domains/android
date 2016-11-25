@@ -22,6 +22,9 @@ purpose:
   - type: contact
     label: nice
     url: 'tel:0123123'
+  - type: contact
+    label: nice
+    url: 'tel:0123123'
 title: cool!
 description: asd
 author:
