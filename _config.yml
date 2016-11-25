@@ -19,6 +19,9 @@ purpose:
   - type: contact
     label: gvb
     url: 'tel:...'
+  - type: contact
+    label: fgg
+    url: 'tel:423'
 title: cool!
 description: asd
 author:
