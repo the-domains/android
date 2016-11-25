@@ -1,9 +1,6 @@
-name: Android
-layout_spectrum: 0.34409413463436067
 typography_spectrum: 0.9771365351043642
-opengraph:
-  type: ''
-  appId: ''
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#B9121B'
@@ -15,19 +12,20 @@ color:
   lightness: 0.832026107236743
   saturation: 0.439751481404528
   rhythmicContrast: 0.7959500951692462
-purpose:
-  - type: contact
-    label: vhg
-    url: 'tel:555'
-  - type: external
-    label: cool
-    url: 'http://cool.com'
-title: cool!
-description: asd
+github: true
+opengraph:
+  type: ''
+  appId: ''
+layout_spectrum: 0.34409413463436067
 author:
   name: ''
   url: ''
   email: ''
-content_rating:
-  adult: false
-github: true
+name: Android
+title: cool!
+content: []
+description: asd
+purpose:
+  - type: external
+    label: cool
+    url: 'http://cool.com'
