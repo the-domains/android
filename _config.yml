@@ -1,6 +1,9 @@
+name: Android
+layout_spectrum: 0.34409413463436067
 typography_spectrum: 0.9771365351043642
-content_rating:
-  adult: false
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#B9121B'
@@ -12,17 +15,16 @@ color:
   lightness: 0.832026107236743
   saturation: 0.439751481404528
   rhythmicContrast: 0.7959500951692462
-github: true
-opengraph:
-  type: ''
-  appId: ''
-layout_spectrum: 0.34409413463436067
+purpose:
+  - type: contact
+    label: gvb
+    url: 'tel:...'
+title: cool!
+description: asd
 author:
   name: ''
   url: ''
   email: ''
-name: Android
-title: cool!
-content: []
-description: asd
-purpose: []
+content_rating:
+  adult: false
+github: true
