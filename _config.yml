@@ -25,7 +25,4 @@ name: Android
 title: cool!
 content: []
 description: asd
-purpose:
-  - type: contact
-    label: cool
-    url: 'tel:0123123'
+purpose: []
