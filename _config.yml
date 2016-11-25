@@ -19,6 +19,9 @@ purpose:
   - type: contact
     label: cool
     url: 'tel:0123123'
+  - type: contact
+    label: nice dudenveryblong purpose
+    url: 'mailto:z@hannesdjfkfk.de'
 title: cool!
 description: asd
 author:
