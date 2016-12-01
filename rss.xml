@@ -4,9 +4,9 @@
         <description><![CDATA[cool!]]></description>
         <link>https://thegrid.ai/android/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Nov 2016 10:35:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2016 10:18:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/android/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 30 Nov 2016 10:34:30 GMT</pubDate>
+        <pubDate>Thu, 01 Dec 2016 10:18:39 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>sdf</p>]]></description>
@@ -33,7 +33,7 @@
             <description><![CDATA[<article><h1>Cool post!</h1><p>This is a great post I'm writing.</p></article>]]></description>
             <link>https://thegrid.ai/android/cool-post/index.html</link>
             <guid isPermaLink="false">bc003512-5cc7-4584-83bd-e1b3b46ed360</guid>
-            <pubDate>Mon, 14 Nov 2016 16:13:05 GMT</pubDate>
+            <pubDate>Thu, 01 Dec 2016 10:18:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
