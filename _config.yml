@@ -29,4 +29,7 @@ navigation:
 title: cool!
 content: []
 description: asd
-purpose: []
+purpose:
+  - type: internal
+    label: asd
+    item: bc003512-5cc7-4584-83bd-e1b3b46ed360
