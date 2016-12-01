@@ -15,10 +15,7 @@ color:
   lightness: 0.832026107236743
   saturation: 0.439751481404528
   rhythmicContrast: 0.7959500951692462
-purpose:
-  - type: internal
-    label: asd
-    item: bc003512-5cc7-4584-83bd-e1b3b46ed360
+purpose: []
 title: cool!
 description: asd
 author:
