@@ -15,10 +15,7 @@ color:
   lightness: 0.832026107236743
   saturation: 0.439751481404528
   rhythmicContrast: 0.7959500951692462
-purpose:
-  - type: internal
-    label: Look at my post!
-    item: ca74c8cc-cbba-4b1b-b21e-229bac52728d
+purpose: []
 title: cool!
 description: asd
 author:
