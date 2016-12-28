@@ -4,9 +4,16 @@
         <description><![CDATA[cool!]]></description>
         <link>https://thegrid.ai/android/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Dec 2016 10:18:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2016 15:06:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/android/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 01 Dec 2016 10:18:39 GMT</pubDate>
+        <pubDate>Wed, 28 Dec 2016 15:05:55 GMT</pubDate>
+        <item>
+            <title><![CDATA[Cool post!]]></title>
+            <description><![CDATA[<article><h1>Cool post!</h1><p>This is a great post I'm writing.</p></article>]]></description>
+            <link>https://thegrid.ai/android/cool-post/index.html</link>
+            <guid isPermaLink="false">bc003512-5cc7-4584-83bd-e1b3b46ed360</guid>
+            <pubDate>Sat, 03 Dec 2016 11:24:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>sdf</p>]]></description>
@@ -20,20 +27,6 @@
             <link>https://thegrid.ai/android/this-is-a-tent/index.html</link>
             <guid isPermaLink="false">445410e4-8c27-4757-9e3c-24be0fb4c063</guid>
             <pubDate>Fri, 25 Nov 2016 18:52:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c53d21d4-0f65-48a7-ac41-b15451917c62.jpg">]]></description>
-            <link>https://thegrid.ai/android/hello-im-writing-an-awesome-post-this-is-really-cool-who/index.html</link>
-            <guid isPermaLink="false">ca74c8cc-cbba-4b1b-b21e-229bac52728d</guid>
-            <pubDate>Tue, 15 Nov 2016 15:07:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cool post!]]></title>
-            <description><![CDATA[<article><h1>Cool post!</h1><p>This is a great post I'm writing.</p></article>]]></description>
-            <link>https://thegrid.ai/android/cool-post/index.html</link>
-            <guid isPermaLink="false">bc003512-5cc7-4584-83bd-e1b3b46ed360</guid>
-            <pubDate>Thu, 01 Dec 2016 10:18:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
