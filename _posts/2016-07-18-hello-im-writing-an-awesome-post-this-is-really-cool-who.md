@@ -1,12 +1,12 @@
 ---
-datePublished: '2017-01-03T14:25:33.654Z'
+datePublished: '2017-01-03T14:28:46.781Z'
 description: >-
   Hello, I'm writing an awesome post. This is really cool. Who would've thought
   this would be so great?
 via: {}
 inFeed: true
 publisher: {}
-dateModified: '2017-01-03T14:25:24.660Z'
+dateModified: '2017-01-03T14:25:48.140Z'
 sourcePath: _posts/2016-07-18-hello-im-writing-an-awesome-post-this-is-really-cool-who.md
 title: ''
 hasPage: true
