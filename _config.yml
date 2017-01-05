@@ -33,3 +33,6 @@ purpose:
   - type: contact
     label: oh
     url: 'mailto:x@hannesstruss.de'
+  - type: contact
+    url: 'tel:234'
+    label: Call 234
