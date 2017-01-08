@@ -4,22 +4,15 @@
         <description><![CDATA[cool!]]></description>
         <link>https://thegrid.ai/android/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 Jan 2017 15:58:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Jan 2017 22:49:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/android/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 08 Jan 2017 15:58:18 GMT</pubDate>
+        <pubDate>Sun, 08 Jan 2017 22:49:11 GMT</pubDate>
         <item>
             <title><![CDATA[Cool post!]]></title>
             <description><![CDATA[<article><h1>Cool post!</h1><p>This is a great post I'm writing.</p></article>]]></description>
             <link>https://thegrid.ai/android/cool-post/index.html</link>
             <guid isPermaLink="false">bc003512-5cc7-4584-83bd-e1b3b46ed360</guid>
             <pubDate>Sun, 08 Jan 2017 15:58:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This is a tent!!!]]></title>
-            <description><![CDATA[<article><h1>This is a tent!!!</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4f9197a-880f-42d9-8fc7-a01fd7520ca6.jpg"></article>]]></description>
-            <link>https://thegrid.ai/android/this-is-a-tent/index.html</link>
-            <guid isPermaLink="false">445410e4-8c27-4757-9e3c-24be0fb4c063</guid>
-            <pubDate>Tue, 03 Jan 2017 14:23:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
