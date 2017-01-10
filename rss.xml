@@ -4,9 +4,9 @@
         <description><![CDATA[cool!]]></description>
         <link>https://thegrid.ai/android/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 Jan 2017 20:51:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2017 21:09:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/android/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Jan 2017 20:51:17 GMT</pubDate>
+        <pubDate>Tue, 10 Jan 2017 21:09:56 GMT</pubDate>
         <item>
             <title><![CDATA[Cool post!]]></title>
             <description><![CDATA[<article><h1>Cool post!</h1><p>This is a great post I'm writing.</p></article>]]></description>
@@ -20,13 +20,6 @@
             <link>https://thegrid.ai/android/hello-im-writing-an-awesome-post-this-is-really-cool-who/index.html</link>
             <guid isPermaLink="false">ca74c8cc-cbba-4b1b-b21e-229bac52728d</guid>
             <pubDate>Tue, 10 Jan 2017 20:51:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What is going on]]></title>
-            <description><![CDATA[<h1>What is going on</h1>]]></description>
-            <link>https://thegrid.ai/android/what-is-going-on/index.html</link>
-            <guid isPermaLink="false">1cf5b408-de49-4774-b82a-04e38148182e</guid>
-            <pubDate>Tue, 03 Jan 2017 16:09:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
