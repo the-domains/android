@@ -1,6 +1,9 @@
+name: Android
+layout_spectrum: 0.34409413463436067
 typography_spectrum: 0.9771365351043642
-content_rating:
-  adult: false
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#B9121B'
@@ -12,27 +15,21 @@ color:
   lightness: 0.832026107236743
   saturation: 0.439751481404528
   rhythmicContrast: 0.7959500951692462
-github: true
-opengraph:
-  type: ''
-  appId: ''
-layout_spectrum: 0.34409413463436067
-author:
-  name: ''
-  url: ''
-  email: ''
-name: Android
-navigation:
-  - name: This is a tent!!!
-    id: 445410e4-8c27-4757-9e3c-24be0fb4c063
-    type: content
-title: cool!
-content: []
-description: asd
 purpose:
   - type: contact
     label: oh
     url: 'mailto:x@hannesstruss.de'
   - type: contact
-    url: 'tel:234'
     label: Call 234
+    url: 'tel:234'
+title: cool!
+description: asd
+author: {}
+content_rating:
+  adult: false
+navigation:
+  - name: This is a tent!!!
+    id: 445410e4-8c27-4757-9e3c-24be0fb4c063
+    type: content
+content: []
+github: true
