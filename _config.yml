@@ -20,12 +20,12 @@ layout_spectrum: 0.34409413463436067
 author: {}
 name: Android
 navigation:
-  - name: Youtube
-    url: 'http://youtube.com'
-    type: external
   - name: This is a tent!!!
     id: 445410e4-8c27-4757-9e3c-24be0fb4c063
     type: content
+  - name: Youtube
+    url: 'http://youtube.com'
+    type: external
 title: cool!
 content: []
 description: The best mobile OS™
