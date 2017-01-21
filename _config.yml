@@ -26,7 +26,7 @@ purpose:
   - type: external
     label: Become a beta tester
     url: 'https://play.google.com/apps/testing/io.thegrid.app'
-title: ''
+title: The Grid Android App
 description: ''
 author: {}
 content_rating:
@@ -49,7 +49,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
