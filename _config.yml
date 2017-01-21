@@ -1,22 +1,24 @@
+layout_spectrum: 0.5547682241864024
+typography_spectrum: 0.12823182063776595
+color:
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+  brandStrength: 0.1643235412881811
+  lightness: 0.25572961202758077
+  saturation: 0.8249694044524711
+  rhythmicContrast: 0.6955640959226996
+coverPrefs:
+  filter: false
 name: The Grid Android
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ec3a55f-dd2d-4247-97ef-92794a699082.png
-layout_spectrum: 0.34409413463436067
-typography_spectrum: 0.9771365351043642
 opengraph:
   type: ''
   appId: ''
-color:
-  brandColors:
-    - '#B9121B'
-    - '#4C1B1B'
-    - '#F6E497'
-    - '#FCFAE1'
-    - '#BD8D46'
-  brandStrength: 0.6958279928658158
-  lightness: 0.832026107236743
-  saturation: 0.439751481404528
-  rhythmicContrast: 0.7959500951692462
 purpose:
   - type: external
     label: Install the app
