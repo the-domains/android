@@ -1,5 +1,5 @@
-layout_spectrum: 0.5547682241864024
-typography_spectrum: 0.12823182063776595
+layout_spectrum: 0.1729404875545735
+typography_spectrum: 0.4972862449111325
 color:
   brandColors:
     - '#1C1D21'
@@ -7,10 +7,10 @@ color:
     - '#445878'
     - '#92CDCF'
     - '#EEEFF7'
-  brandStrength: 0.1643235412881811
-  lightness: 0.25572961202758077
-  saturation: 0.8249694044524711
-  rhythmicContrast: 0.6955640959226996
+  brandStrength: 0.1694713464835751
+  lightness: 0.25296373084178286
+  saturation: 0.8260687200465967
+  rhythmicContrast: 0.691521863386791
 coverPrefs:
   filter: false
 name: The Grid Android
