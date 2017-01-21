@@ -19,6 +19,9 @@ purpose:
   - type: external
     label: Install the app
     url: 'https://play.google.com/store/apps/details?id=io.thegrid.app'
+  - type: external
+    label: Become a beta tester
+    url: 'https://play.google.com/apps/testing/io.thegrid.app'
 title: ''
 description: ''
 author: {}
