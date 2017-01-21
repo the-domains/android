@@ -15,10 +15,7 @@ color:
   lightness: 0.832026107236743
   saturation: 0.439751481404528
   rhythmicContrast: 0.7959500951692462
-purpose:
-  - type: contact
-    label: Call 234
-    url: 'tel:234'
+purpose: []
 title: cool!
 description: The best mobile OS™
 author: {}
