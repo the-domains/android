@@ -2,17 +2,17 @@
     <channel>
         <title><![CDATA[cool!]]></title>
         <description><![CDATA[cool!]]></description>
-        <link>https://thegrid.ai/android/</link>
+        <link>http://android.thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 Jan 2017 21:11:52 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/android/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 10 Jan 2017 21:11:51 GMT</pubDate>
+        <lastBuildDate>Sat, 21 Jan 2017 14:52:36 GMT</lastBuildDate>
+        <atom:link href="http://android.thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sat, 21 Jan 2017 14:52:13 GMT</pubDate>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c53d21d4-0f65-48a7-ac41-b15451917c62.jpg">]]></description>
-            <link>https://thegrid.ai/android/hello-im-writing-an-awesome-post-this-is-really-cool-who/index.html</link>
-            <guid isPermaLink="false">ca74c8cc-cbba-4b1b-b21e-229bac52728d</guid>
-            <pubDate>Tue, 10 Jan 2017 20:51:17 GMT</pubDate>
+            <title><![CDATA[The New Android App]]></title>
+            <description><![CDATA[<article><h1>The New Android App</h1><p>For the new app we adopted Google&apos;s Material Design guidelines and went with a light theme that is easier on the eyes when using the app in bright sunlight. Colors adapt to your content using Chromatose, our set of snazzy color algorithms. With bigger cards and a simplified structure for your posts, finding that draft you wrote a while back is easier than ever.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce319143-a953-4894-9afb-089d6249e022.jpg"></article>]]></description>
+            <link>https://blog.thegrid.io/the-new-android-app/</link>
+            <guid isPermaLink="false">4955ed65-e96e-422c-8084-4970cfd2a4e4</guid>
+            <pubDate>Sat, 21 Jan 2017 14:52:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
