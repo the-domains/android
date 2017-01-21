@@ -21,12 +21,5 @@ description: The best mobile OS™
 author: {}
 content_rating:
   adult: false
-navigation:
-  - name: This is a tent!!!
-    id: 445410e4-8c27-4757-9e3c-24be0fb4c063
-    type: content
-  - name: Youtube
-    url: 'http://youtube.com'
-    type: external
 content: []
 github: true
