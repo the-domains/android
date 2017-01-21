@@ -1,6 +1,9 @@
+name: Android
+layout_spectrum: 0.34409413463436067
 typography_spectrum: 0.9771365351043642
-content_rating:
-  adult: false
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#B9121B'
@@ -12,23 +15,6 @@ color:
   lightness: 0.832026107236743
   saturation: 0.439751481404528
   rhythmicContrast: 0.7959500951692462
-github: true
-opengraph:
-  type: ''
-  appId: ''
-layout_spectrum: 0.34409413463436067
-author: {}
-name: Android
-navigation:
-  - name: This is a tent!!!
-    id: 445410e4-8c27-4757-9e3c-24be0fb4c063
-    type: content
-  - name: Youtube
-    url: 'http://youtube.com'
-    type: external
-title: cool!
-content: []
-description: The best mobile OS™
 purpose:
   - type: contact
     label: oh
@@ -36,3 +22,17 @@ purpose:
   - type: contact
     label: Call 234
     url: 'tel:234'
+title: cool!
+description: The best mobile OS™
+author: {}
+content_rating:
+  adult: false
+navigation:
+  - name: This is a tent!!!
+    id: 445410e4-8c27-4757-9e3c-24be0fb4c063
+    type: content
+  - name: Youtube
+    url: 'http://youtube.com'
+    type: external
+content: []
+github: true
