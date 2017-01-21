@@ -1,4 +1,4 @@
-name: Android
+name: The Grid Android
 layout_spectrum: 0.34409413463436067
 typography_spectrum: 0.9771365351043642
 opengraph:
@@ -15,7 +15,10 @@ color:
   lightness: 0.832026107236743
   saturation: 0.439751481404528
   rhythmicContrast: 0.7959500951692462
-purpose: []
+purpose:
+  - type: external
+    label: Install the app
+    url: 'https://play.google.com/store/apps/details?id=io.thegrid.app'
 title: ''
 description: ''
 author: {}
