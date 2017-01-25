@@ -28,13 +28,13 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://blog.thegrid.io/collaboration-website-editing-together'
 title: 'Collaboration: Website editing, together'
-datePublished: '2017-01-21T15:59:30.567Z'
-dateModified: '2017-01-21T15:58:31.992Z'
-datePublishedOriginal: '2017-01-21T15:59:30.567Z'
+datePublished: '2017-01-25T14:44:57.865Z'
+dateModified: '2017-01-25T14:44:57.362Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-01-21-collaboration-website-editing-together.md
+starred: false
+datePublishedOriginal: '2017-01-21T15:59:30.567Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
