@@ -28,13 +28,13 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://blog.thegrid.io/the-new-android-app/'
 title: The New Android App
-datePublished: '2017-01-21T14:52:00.994Z'
-dateModified: '2017-01-21T14:51:45.066Z'
-datePublishedOriginal: '2017-01-21T14:52:00.994Z'
+datePublished: '2017-01-25T14:44:58.063Z'
+dateModified: '2017-01-25T14:44:57.362Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-01-21-the-new-android-app.md
+starred: false
+datePublishedOriginal: '2017-01-21T14:52:00.994Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
