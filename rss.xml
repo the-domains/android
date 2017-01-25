@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[cool!]]></title>
-        <description><![CDATA[cool!]]></description>
+        <title><![CDATA[The Grid Android App]]></title>
+        <description><![CDATA[The Grid Android App]]></description>
         <link>http://android.thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 Jan 2017 14:52:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2017 14:44:43 GMT</lastBuildDate>
         <atom:link href="http://android.thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Jan 2017 14:52:13 GMT</pubDate>
+        <pubDate>Wed, 25 Jan 2017 14:44:43 GMT</pubDate>
+        <item>
+            <title><![CDATA[The Grid Help]]></title>
+            <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/89ea773be58889c7e053f0f5d07e3eac/noop.png?input=http%3A%2F%2Fd33v4339jhl8k0.cloudfront.net%2Fdocs%2Fassets%2F54dd53ebe4b086c0c0966e7a%2Fimages%2F57f021489033602e61d4a733%2FTeal_G.png"><h1>The Grid Help</h1><p>The Grid Help Center</p></article>]]></description>
+            <link>http://help.thegrid.io/</link>
+            <guid isPermaLink="false">28bcfaf8-3ad1-442f-9b65-f8024508993f</guid>
+            <pubDate>Wed, 25 Jan 2017 14:44:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Collaboration: Website editing, together]]></title>
+            <description><![CDATA[<article><h1>Collaboration: Website editing, together</h1><p>Great things are rarely made in isolation. Only when we team up with others we can truly make our work shine. In the past, websites on the Grid could only be managed by one person - until today: We&apos;re excited to announce Collaboration, making it possible to open your website content to as many contributors as you like.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/649db307-7837-466b-838b-3344e94010d0.jpg"></article>]]></description>
+            <link>https://blog.thegrid.io/collaboration-website-editing-together</link>
+            <guid isPermaLink="false">a5b84935-43c5-44ce-99bc-c0554e205456</guid>
+            <pubDate>Sat, 21 Jan 2017 15:59:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The New Android App]]></title>
             <description><![CDATA[<article><h1>The New Android App</h1><p>For the new app we adopted Google&apos;s Material Design guidelines and went with a light theme that is easier on the eyes when using the app in bright sunlight. Colors adapt to your content using Chromatose, our set of snazzy color algorithms. With bigger cards and a simplified structure for your posts, finding that draft you wrote a while back is easier than ever.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce319143-a953-4894-9afb-089d6249e022.jpg"></article>]]></description>
